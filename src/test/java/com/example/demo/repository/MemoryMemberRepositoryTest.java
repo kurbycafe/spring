@@ -23,4 +23,5 @@ public class MemoryMemberRepositoryTest {
         Assertions.assertEquals(result,member);
     }
 
+
 }
